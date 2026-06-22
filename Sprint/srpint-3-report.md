@@ -81,7 +81,7 @@ Sprint 4 Leader: Siyi Pan
 
 ## 5. Blockers & Concerns
 
-- [None — remove if no blockers]
+- None
 
 ---
 
