@@ -13,6 +13,8 @@ Sprint 4 Leader: Siyi Pan
 
 ## 2. What We Accomplished This Sprint
 
+**Theodore Pei：**
+
 - Set up the frontend clients (mobile app and web portal) to integrate with the backend APIs.
 - Created user groups and assigned permissions for backend API access.
 - Implemented and tested authentication flows using Cognito.
@@ -21,8 +23,24 @@ Sprint 4 Leader: Siyi Pan
 - Provisioned the Knowledge Base through CDK with Titan v2 embeddings, backing it with OpenSearch Serverless after S3 Vectors turned out to be blocked by an SCP.
 - Split the Knowledge Base into a dedicated us-east-1 stack to handle the cross-region setup.
 - Implemented the `generateTaskSteps` Lambda and a shared Bedrock KB client that retrieve from the Knowledge Base and return cited, plain-language steps over GraphQL.
+
+**Langze An：**
+
+- Set up the frontend clients (mobile app and web portal) to integrate with the backend APIs.
+- Created user groups and assigned permissions for backend API access.
+- Implemented and tested authentication flows using Cognito.
+
+**Siyi Pan：**
+
 - Finished UI/UX design for the app in iOS version.
+
+**Liecheng Jiang：**
+
 - Prepared the mobile app.
+
+**Yifan Wei：**
+
+- Help Langze An test API 
 
 ---
 
@@ -66,6 +84,23 @@ Sprint 4 Leader: Siyi Pan
 - [None — remove if no blockers]
 
 ---
+
+## 6. Track Hours
+
+**Working Hours:**
+
+- Yifan Wei —  12 hours
+- Michael An — 13 hours
+- Theodore Pei — 12 hours
+- Siyi Pan — 12 hours
+- Liecheng Jiang — 13 hours
+
+**Meting Hours:**
+
+- Hao - 30 mins/week
+- Lino - 30 mins/week
+- Group - 3 hours+/week
+
 
 ## 6. Links
 
