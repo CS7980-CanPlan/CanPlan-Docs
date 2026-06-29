@@ -82,7 +82,7 @@ Sprint 5 Leader: Yifan Wei
 
 ## 4. Plan for Next Sprint
 
-Sprint 4 Leader: Siyi Pan
+Sprint 5 Leader: Siyi Pan
 
 **Goals:**
 
