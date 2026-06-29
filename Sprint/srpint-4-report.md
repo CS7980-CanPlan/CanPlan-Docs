@@ -56,7 +56,13 @@ Sprint 4 Leader: Siyi Pan
 
 **Yifan Wei：**
 
-- Help Langze An test API 
+- API testing for newly added backend endpoints (createAiTask, updateTaskOrder, assignment/schedule features) — 6h
+- Coordinated with Theodore on AI task feature testing, documented findings and edge cases — 3h
+- Research paper: reviewed Sprint 4 build against paper framework, drafted weekly summary and single-vs-multi-agent reflection section — 4h
+- Bruno collection updates: added new test cases for newly available endpoints, updated environment variables after backend changes — 2h
+- Supervisor meetings (Hao + Lino) and team standup — 2h
+- Sprint 5 lead responsibilities: facilitated team meetings, tracked task progress, updated GitHub project board — 3h
+
 
 ---
 
