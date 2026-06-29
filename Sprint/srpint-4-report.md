@@ -6,8 +6,8 @@ CS7980 | Team CanPlan | Week 7 - Week 8
 
 ## 1. Sprint Leadership
 
-Sprint 3 Leader: Siyi Pan
 Sprint 4 Leader: Siyi Pan
+Sprint 5 Leader: Yifan Wei
 
 ---
 
